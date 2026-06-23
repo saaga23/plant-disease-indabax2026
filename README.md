@@ -1,4 +1,4 @@
-# Plant Disease Detection â€” IndabaX Nigeria 2026
+# Plant Disease Detection - IndabaX Nigeria 2026
 
 A reproducible training protocol for edge-based plant-disease classification on African smallholder crops.
 
